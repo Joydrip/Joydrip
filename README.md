@@ -79,13 +79,13 @@ vision, cloud computing and solving real-world problems with technology.
 <br>
 
 <p align="center">
-🎌 <b>Anime</b>
+🎌 Anime
 &nbsp;&nbsp;&nbsp;
-🎧 <b>J-Rock</b>
+🎧 J-Rock
 &nbsp;&nbsp;&nbsp;
-🌌 <b>Shoegaze</b>
+🌌 Shoegaze
 &nbsp;&nbsp;&nbsp;
-💻 <b>Coding</b>
+💻 Coding
 </p>
 
 <br>
@@ -97,7 +97,6 @@ vision, cloud computing and solving real-world problems with technology.
 💼&nbsp; Connect with me<br>
 <a href="https://www.linkedin.com/in/joydeep-sarkar-214b9228a/">LinkedIn</a>
 
-<br>
 
 📫&nbsp; How to reach me<br>
 <a href="mailto:onjoydeep@gmail.com">Email</a>
