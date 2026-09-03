@@ -91,12 +91,12 @@ vision, cloud computing and solving real-world problems with technology.
 
 <p><b>Links</b></p>
 
-💼&nbsp; Connect with me<br>
+💼&nbsp; Connect with me
 <a href="https://www.linkedin.com/in/joydeep-sarkar-214b9228a/">LinkedIn</a>
 
 
-📫&nbsp; How to reach me<br>
-<a href="mailto:onjoydeep@gmail.com">Email</a>
+📫&nbsp; How to reach me
+<a href="mailto:onjoydeep@gmail.com">onjoydeep@gmail.com</a>
 
 
 </div>
