@@ -1,4 +1,6 @@
-<img width="80%" alt="Anime Lofi" src="96caf5cd0fb6f9d08a66c90d970847c7.gif">
+<p align="center">
+<img width="80%" alt="Anime Lofi" src="./96caf5cd0fb6f9d08a66c90d970847c7.gif">
+</p>
 
 <p align="center">
 A Computer Science & Business Systems student who enjoys building applications and exploring
@@ -8,66 +10,66 @@ vision, cloud computing and solving real-world problems with technology.
 
 <br>
 
-<p align="center">Languages and Tools</p>
+<p align="center"><b>Languages and Tools</b></p>
 
 <p align="center">
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://react.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://opencv.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
@@ -76,25 +78,26 @@ vision, cloud computing and solving real-world problems with technology.
 
 <br>
 
-<div align="center">
-
-<p>🎌 Anime &nbsp;&nbsp; 🎧 J-Rock &nbsp;&nbsp; 🌌 Shoegaze &nbsp;&nbsp; 🧠 AI/ML &nbsp;&nbsp; 💻 Coding</p>
+<p align="center">
+🎌 <b>Anime</b>
+&nbsp;&nbsp;&nbsp;
+🎧 <b>J-Rock</b>
+&nbsp;&nbsp;&nbsp;
+🌌 <b>Shoegaze</b>
+&nbsp;&nbsp;&nbsp;
+💻 <b>Coding</b>
+</p>
 
 <br>
 
-<p>Links</p>
+<div align="center">
 
-👨‍💻&nbsp; All of my projects are available at<br>
-<a href="YOUR_GITHUB_URL">GitHub</a>
+<p><b>Links</b></p>
 
-<br><br>
-
-💼&nbsp; Connect with me<br>
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-
-<br><br>
-
-📫&nbsp; How to reach me<br>
-YOUR_EMAIL
+👨‍💻&nbsp; <a href="https://github.com/Joydrip">GitHub</a>
+&nbsp;&nbsp;&nbsp;
+💼&nbsp; <a href="https://www.linkedin.com/in/joydeep-sarkar-214b9228a/">LinkedIn</a>
+&nbsp;&nbsp;&nbsp;
+📫&nbsp; <a href="mailto:onjoydeep@gmail.com">Email</a>
 
 </div>
