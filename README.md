@@ -8,7 +8,6 @@ Artificial Intelligence and Machine Learning. Interested in software development
 vision, cloud computing and solving real-world problems with technology.
 </p>
 
-<br>
 
 <p align="center"><b>Languages and Tools</b></p>
 
@@ -76,7 +75,6 @@ vision, cloud computing and solving real-world problems with technology.
 
 </p>
 
-<br>
 
 <p align="center">
 🎌 Anime
@@ -88,7 +86,6 @@ vision, cloud computing and solving real-world problems with technology.
 💻 Coding
 </p>
 
-<br>
 
 <div align="center">
 
