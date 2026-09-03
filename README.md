@@ -1,8 +1,4 @@
-<img width="100%" alt="Anime Lofi" src="96caf5cd0fb6f9d08a66c90d970847c7.gif">
-
-<p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</p>
+<img width="80%" alt="Anime Lofi" src="96caf5cd0fb6f9d08a66c90d970847c7.gif">
 
 <p align="center">
 A Computer Science & Business Systems student who enjoys building applications and exploring
@@ -12,11 +8,7 @@ vision, cloud computing and solving real-world problems with technology.
 
 <br>
 
-<p align="center">
-<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="25">
-&nbsp; Languages and Tools &nbsp;
-<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="25">
-</p>
+<p align="center">Languages and Tools</p>
 
 <p align="center">
 
@@ -84,33 +76,13 @@ vision, cloud computing and solving real-world problems with technology.
 
 <br>
 
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25">
-&nbsp; AI / ML &nbsp; • &nbsp; Computer Vision &nbsp; • &nbsp; Cloud Computing &nbsp; • &nbsp; Software Development
-&nbsp; <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25">
-</p>
-
-<br>
-
 <div align="center">
 
-<p>
-🎌 <b>Anime</b>
-&nbsp;&nbsp;&nbsp;
-🎧 <b>J-Rock</b>
-&nbsp;&nbsp;&nbsp;
-🌌 <b>Shoegaze</b>
-&nbsp;&nbsp;&nbsp;
-💻 <b>Coding</b>
-</p>
+<p>🎌 Anime &nbsp;&nbsp; 🎧 J-Rock &nbsp;&nbsp; 🌌 Shoegaze &nbsp;&nbsp; 🧠 AI/ML &nbsp;&nbsp; 💻 Coding</p>
 
 <br>
 
-<p>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="25">
-&nbsp; Links &nbsp;
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="25">
-</p>
+<p>Links</p>
 
 👨‍💻&nbsp; All of my projects are available at<br>
 <a href="YOUR_GITHUB_URL">GitHub</a>
