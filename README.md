@@ -94,10 +94,13 @@ vision, cloud computing and solving real-world problems with technology.
 
 <p><b>Links</b></p>
 
-👨‍💻&nbsp; <a href="https://github.com/Joydrip">GitHub</a>
-&nbsp;&nbsp;&nbsp;
-💼&nbsp; <a href="https://www.linkedin.com/in/joydeep-sarkar-214b9228a/">LinkedIn</a>
-&nbsp;&nbsp;&nbsp;
-📫&nbsp; <a href="mailto:onjoydeep@gmail.com">Email</a>
+💼&nbsp; Connect with me<br>
+<a href="https://www.linkedin.com/in/joydeep-sarkar-214b9228a/">LinkedIn</a>
+
+<br>
+
+📫&nbsp; How to reach me<br>
+<a href="mailto:onjoydeep@gmail.com">Email</a>
+
 
 </div>
